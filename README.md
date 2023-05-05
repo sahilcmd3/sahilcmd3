@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at JECRC University
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me by emailing me on msgsahil5@gmail.com
-- I am starting my coding journey with C++
+- I am starting my coding journey with C++ and Python
 
 <!---
 sahilcmd3/sahilcmd3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
