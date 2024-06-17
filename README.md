@@ -16,7 +16,7 @@ As a student passionate about the potential of cloud computing, I'm always exper
 
 ### 🛠 Technical Skills
 
-- **Cloud Platforms:** Google Cloud Platform, Azure
+- **Cloud Platforms:** Azure, Google Cloud Platform 
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, Git
 - **Programming:** Python, C/C++
 
