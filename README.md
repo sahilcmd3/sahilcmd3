@@ -4,11 +4,6 @@
 
 As a student passionate about the potential of cloud computing, I'm always experimenting with new technologies and building projects that push my limits. Here, you'll find my portfolio of projects that not only showcase my technical skills but also my journey in learning and applying cloud engineering principles.
 
-### 📚 Projects Showcase
-
-- **Sample Application:** An application deployed using kubernetes dashboard and kubectl, exposing its services to internet and accessing it outside minikube cluster.
-- **Dynamic Web Application:** A dynamic web app hosted on Azure using Azure app service, Azure Blob storage and visual studio
-
 ### 🎓 Education
 
 - B.Tech in Computer Science and Engineering, JECRC University, Expected Graduation: 2026
@@ -16,7 +11,7 @@ As a student passionate about the potential of cloud computing, I'm always exper
 
 ### 🛠 Technical Skills
 
-- **Cloud Platforms:** Azure, Google Cloud Platform 
+- **Cloud Platforms:** Azure, Google Cloud Platform, Oracle Cloud Infrastructure
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, Git
 - **Programming:** Python, C/C++
 
